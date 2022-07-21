@@ -10,5 +10,6 @@ Un blog increíble para el curso de Git y GitHub de [Platzi](https://platzi.com 
 * Buenas prácticas
 * Trucazos.jpg
 * ~~Cómo escapar de Latam~~
+* Creador por un team épico papu
 
 **Este README.md es joda papá**, aquí el [**cursito**](https://platzi.com/cursos/git-github/ "cursito")
